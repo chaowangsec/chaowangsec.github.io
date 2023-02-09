@@ -27,7 +27,7 @@ He is a CTF player and composer in **web** challenges. He participates in CTF ev
 
 ## Publications
 
-* **[ICSE \'23] <text style="font-variant-caps: small-caps;">TaintMini</text>: Detecting Flow of Sensitive Data in Mini-Programs with Static Taint Analysis.** [[bib]]() [[pdf]]()
+* **[ICSE \'23] <text style="font-variant-caps: small-caps;">TaintMini</text>: Detecting Flow of Sensitive Data in Mini-Programs with Static Taint Analysis.** [bib] [pdf]
 	
 	<p style="margin-bottom: 0rem; margin-top: -1rem;"><strong>Chao Wang</strong>, Ronny Ko, Yue Zhang, Yuqing Yang, and Zhiqiang Lin</p>
 
@@ -36,7 +36,7 @@ He is a CTF player and composer in **web** challenges. He participates in CTF ev
 	<p style="margin-bottom: 1rem;">(acceptance rate: 26%)</p>
 
 
-* **[NSS \'21] Re-Check Your Certificates! Experiences and Lessons Learnt from Real-World HTTPS Certificate Deployments** [\[bib\]]() [\[pdf\]]()
+* **[NSS \'21] Re-Check Your Certificates! Experiences and Lessons Learnt from Real-World HTTPS Certificate Deployments** [\[bib\]](bibliographies/nss21.bib) [\[pdf\]](publications/nss21.pdf)
 	
 	<p style="margin-bottom: 0rem; margin-top: -1rem;">Wenya Wang, Yakang Li, <strong>Chao Wang</strong>, Yuan Yan, Juanru Li, and Dawu Gu</p>
 
