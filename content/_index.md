@@ -34,7 +34,7 @@ He is a CTF player and composer in **web** challenges. He participates in CTF ev
 	<p style="margin-bottom: 1rem;"><i>To appear in The ACM Conference on Computer and Communications Security (CCS), 2023</i></p>
 
 
-* **[ICSE \'23] <text style="font-variant-caps: small-caps;">TaintMini</text>: Detecting Flow of Sensitive Data in Mini-Programs with Static Taint Analysis.** [\[code\]](https://github.com/OSUSecLab/TaintMini) [\[bib\]](bibliographies/icse23.bib) [pdf] [slides]
+* **[ICSE \'23] <text style="font-variant-caps: small-caps;">TaintMini</text>: Detecting Flow of Sensitive Data in Mini-Programs with Static Taint Analysis.** [\[bib\]](bibliographies/icse23.bib) [\[code\]](https://github.com/OSUSecLab/TaintMini) [pdf] [slides]
 
 	<p style="margin-bottom: 0rem; margin-top: -1rem;"><strong>Chao Wang</strong>, Ronny Ko, Yue Zhang, Yuqing Yang, and Zhiqiang Lin</p>
 
