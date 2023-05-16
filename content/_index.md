@@ -26,8 +26,14 @@ He is a CTF player and composer in **web** challenges. He participates in CTF ev
 
 
 ## Publications
+* **[CCS \'23] Uncovering and Exploiting Hidden APIs in Mobile Super Apps.** [bib] [pdf]
+	
+	<p style="margin-bottom: 0rem; margin-top: -1rem;"><strong>Chao Wang</strong>, Yue Zhang, and Zhiqiang Lin</p>
 
-* **[ICSE \'23] <text style="font-variant-caps: small-caps;">TaintMini</text>: Detecting Flow of Sensitive Data in Mini-Programs with Static Taint Analysis.** [bib] [pdf]
+	<p style="margin-bottom: 0rem;"><i>To appear in The ACM Conference on Computer and Communications Security (CCS), 2023</i></p>
+
+
+* **[ICSE \'23] <text style="font-variant-caps: small-caps;">TaintMini</text>: Detecting Flow of Sensitive Data in Mini-Programs with Static Taint Analysis.** [\[bib\]](bibliographies/icse23.bib) [slides] [pdf]
 	
 	<p style="margin-bottom: 0rem; margin-top: -1rem;"><strong>Chao Wang</strong>, Ronny Ko, Yue Zhang, Yuqing Yang, and Zhiqiang Lin</p>
 
