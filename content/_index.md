@@ -30,7 +30,7 @@ He is a CTF player and composer in **web** challenges. He participates in CTF ev
 	
 	<p style="margin-bottom: 0rem; margin-top: -1rem;"><strong>Chao Wang</strong>, Yue Zhang, and Zhiqiang Lin</p>
 
-	<p style="margin-bottom: 0rem;"><i>To appear in The ACM Conference on Computer and Communications Security (CCS), 2023</i></p>
+	<p style="margin-bottom: 1rem;"><i>To appear in The ACM Conference on Computer and Communications Security (CCS), 2023</i></p>
 
 
 * **[ICSE \'23] <text style="font-variant-caps: small-caps;">TaintMini</text>: Detecting Flow of Sensitive Data in Mini-Programs with Static Taint Analysis.** [\[bib\]](bibliographies/icse23.bib) [slides] [pdf]
