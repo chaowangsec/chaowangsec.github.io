@@ -20,7 +20,7 @@ He is a CTF player and composer in **web** challenges. He participates in CTF ev
 
 ## Research Interest
 
-* **Mobile Security**: Mobile Super/Mini App Security ([[ICSE \'23]](), [[CCS \'23]]())
+* **Mobile Security**: Mobile Super/Mini App Security ([\[ICSE \'23\]](publications/icse23.pdf), [[CCS \'23]]())
 * **Web Security**: JavaScript
 * **System Security**: TEE (TrustZone)
 
