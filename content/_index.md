@@ -20,14 +20,21 @@ He is a CTF player and composer in **web** challenges. He participates in CTF ev
 
 ## Research Interest
 
-* **Mobile Security**: Mobile Super/Mini App Security ([\[ICSE \'23\]](publications/icse23.pdf), [[CCS \'23]]())
+* **Mobile Security**: Mobile Super/Mini App Security ([\[ICSE \'23\]](publications/icse23.pdf), [[CCS \'23]](),[[USENIX-SEC \'23]]())
 * **Web Security**: JavaScript
 * **System Security**: TEE (TrustZone)
 
 
 ## Publications
 
-* **[CCS \'23] Uncovering and Exploiting Hidden APIs in Mobile Super Apps.** [bib] [pdf]
+* **[USENIX-SEC \'23] One Size Does Not Fit All: Uncovering and Exploiting Cross Platform Discrepant APIs in WeChat.** [bib] [code] [pdf] [slides]
+
+	<p style="margin-bottom: 0rem; margin-top: -1rem;"><strong>Chao Wang</strong>, Yue Zhang, and Zhiqiang Lin</p>
+
+	<p style="margin-bottom: 1rem;"><i>To appear in 32nd USENIX Security Symposium (USENIX Security 23), 2023</i></p>
+
+
+* **[CCS \'23] Uncovering and Exploiting Hidden APIs in Mobile Super Apps.** [bib] [code] [pdf] [slides]
 	
 	<p style="margin-bottom: 0rem; margin-top: -1rem;"><strong>Chao Wang</strong>, Yue Zhang, and Zhiqiang Lin</p>
 
