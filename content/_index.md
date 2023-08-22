@@ -33,7 +33,7 @@ He is a CTF player and composer in **web** challenges. He participates in CTF ev
 
 	<p style="margin-bottom: 1rem;"><i>To appear in 32nd USENIX Security Symposium (USENIX Security 23), 2023</i></p>
 
-* **[USENIX-SEC \'23b] A Peek into the Metaverse: Detecting 3D Model Clones in Mobile Games.** [\[bib\]](bibliographies/sec23b.bib) [\[code\]](https://github.com/OSUSecLab/3DScan) [\[pdf\]](ublications/sec23b.pdf) [\[slides\]](slides/sec23b-slides.pdf)
+* **[USENIX-SEC \'23b] A Peek into the Metaverse: Detecting 3D Model Clones in Mobile Games.** [\[bib\]](bibliographies/sec23b.bib) [\[code\]](https://github.com/OSUSecLab/3DScan) [\[pdf\]](publications/sec23b.pdf) [\[slides\]](slides/sec23b-slides.pdf)
 
 	<p style="margin-bottom: 0rem; margin-top: -1rem;">Chaoshun Zuo, <strong>Chao Wang</strong>, and Zhiqiang Lin</p>
 
