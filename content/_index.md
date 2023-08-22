@@ -31,13 +31,13 @@ He is a CTF player and composer in **web** challenges. He participates in CTF ev
 
 	<p style="margin-bottom: 0rem; margin-top: -1rem;"><strong>Chao Wang</strong>, Yue Zhang, and Zhiqiang Lin</p>
 
-	<p style="margin-bottom: 1rem;"><i>To appear in 32nd USENIX Security Symposium (USENIX Security 23), 2023</i></p>
+	<p style="margin-bottom: 1rem;"><i>In 32nd USENIX Security Symposium (USENIX Security 23), 2023</i></p>
 
 * **[USENIX-SEC \'23b] A Peek into the Metaverse: Detecting 3D Model Clones in Mobile Games.** [\[bib\]](bibliographies/sec23b.bib) [\[code\]](https://github.com/OSUSecLab/3DScan) [\[pdf\]](publications/sec23b.pdf) [\[slides\]](slides/sec23b-slides.pdf)
 
 	<p style="margin-bottom: 0rem; margin-top: -1rem;">Chaoshun Zuo, <strong>Chao Wang</strong>, and Zhiqiang Lin</p>
 
-	<p style="margin-bottom: 1rem;"><i>To appear in 32nd USENIX Security Symposium (USENIX Security 23), 2023</i></p>
+	<p style="margin-bottom: 1rem;"><i>In 32nd USENIX Security Symposium (USENIX Security 23), 2023</i></p>
 
 
 * **[CCS \'23] Uncovering and Exploiting Hidden APIs in Mobile Super Apps.** [bib] [code] [pdf] [slides]
@@ -51,7 +51,7 @@ He is a CTF player and composer in **web** challenges. He participates in CTF ev
 
 	<p style="margin-bottom: 0rem; margin-top: -1rem;"><strong>Chao Wang</strong>, Ronny Ko, Yue Zhang, Yuqing Yang, and Zhiqiang Lin</p>
 
-	<p style="margin-bottom: 0rem;"><i>To appear in The International Conference on Software Engineering (ICSE), 2023</i></p>
+	<p style="margin-bottom: 0rem;"><i>In The International Conference on Software Engineering (ICSE), 2023</i></p>
 
 	<p style="margin-bottom: 1rem;">(acceptance rate: 26%)</p>
 
