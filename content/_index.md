@@ -27,7 +27,7 @@ He is a CTF player and composer in **web** challenges. He participates in CTF ev
 
 ## Publications
 
-* **[USENIX-SEC \'23a] One Size Does Not Fit All: Uncovering and Exploiting Cross Platform Discrepant APIs in WeChat.** [\[bib\]](bibliographies/sec23a.bib) [\[code\]](https://github.com/OSUSecLab/APIDiff) [\[pdf\]](publications/sec23a.pdf) [slides]
+* **[USENIX-SEC \'23a] One Size Does Not Fit All: Uncovering and Exploiting Cross Platform Discrepant APIs in WeChat.** [\[bib\]](bibliographies/sec23a.bib) [\[code\]](https://github.com/OSUSecLab/APIDiff) [\[pdf\]](publications/sec23a.pdf) [\[slides\]](slides/sec23a-slides.pdf)
 
 	<p style="margin-bottom: 0rem; margin-top: -1rem;"><strong>Chao Wang</strong>, Yue Zhang, and Zhiqiang Lin</p>
 
