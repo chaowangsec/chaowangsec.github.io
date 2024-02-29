@@ -27,6 +27,12 @@ He is a CTF player and composer in **web** challenges. He participates in CTF ev
 
 ## Publications
 
+* **[ASIACCS \'24] RootFree Attacks: Exploiting Mobile Platform's Super Apps From Desktop.** [bib] [pdf] [slides]
+
+	<p style="margin-bottom: 0rem; margin-top: -1rem;"><strong>Chao Wang</strong>, Yue Zhang, and Zhiqiang Lin</p>
+
+	<p style="margin-bottom: 1rem;"><i>To appear in The 19th ACM ASIA Conference on Computer and Communications Security (ACM ASIACCS 2024), 2024</i></p>
+
 * **[USENIX-SEC \'23a] One Size Does Not Fit All: Uncovering and Exploiting Cross Platform Discrepant APIs in WeChat.** [\[bib\]](bibliographies/sec23a.bib) [\[code\]](https://github.com/OSUSecLab/APIDiff) [\[pdf\]](publications/sec23a.pdf) [\[slides\]](slides/sec23a-slides.pdf)
 
 	<p style="margin-bottom: 0rem; margin-top: -1rem;"><strong>Chao Wang</strong>, Yue Zhang, and Zhiqiang Lin</p>
@@ -40,11 +46,11 @@ He is a CTF player and composer in **web** challenges. He participates in CTF ev
 	<p style="margin-bottom: 1rem;"><i>In 32nd USENIX Security Symposium (USENIX Security 23), 2023</i></p>
 
 
-* **[CCS \'23] Uncovering and Exploiting Hidden APIs in Mobile Super Apps.** [bib] [code] [pdf] [slides]
+* **[CCS \'23] Uncovering and Exploiting Hidden APIs in Mobile Super Apps.** [\[bib\]](bibliographies/ccs23.bib) [\[pdf\]](publications/ccs23.pdf) [\[slides\]](slides/ccs23-slides.pdf)
 	
 	<p style="margin-bottom: 0rem; margin-top: -1rem;"><strong>Chao Wang</strong>, Yue Zhang, and Zhiqiang Lin</p>
 
-	<p style="margin-bottom: 1rem;"><i>To appear in The ACM Conference on Computer and Communications Security (CCS), 2023</i></p>
+	<p style="margin-bottom: 1rem;"><i>In The ACM Conference on Computer and Communications Security (CCS), 2023</i></p>
 
 
 * **[ICSE \'23] <text style="font-variant-caps: small-caps;">TaintMini</text>: Detecting Flow of Sensitive Data in Mini-Programs with Static Taint Analysis.** [\[bib\]](bibliographies/icse23.bib) [\[code\]](https://github.com/OSUSecLab/TaintMini) [\[pdf\]](publications/icse23.pdf) [\[slides\]](slides/icse23-slides.pdf)
