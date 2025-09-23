@@ -5,7 +5,7 @@ date: 2023-02-01T23:36:00-05:00
 
 ## Bio
 
-Chao Wang is a second year Ph.D. student from the [Department of Computer Science and Engineering](https://cse.osu.edu) of [The Ohio State University](https://osu.edu). He is advised by [Prof. Zhiqiang Lin](https://web.cse.ohio-state.edu/~lin.3021/) in [SecLab](https://go.osu.edu/seclab). He received his Bachelor of Science degree from [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/) in 2021.
+Chao Wang is a Ph.D. candidate from the [Department of Computer Science and Engineering](https://cse.osu.edu) of [The Ohio State University](https://osu.edu). He is advised by [Prof. Zhiqiang Lin](https://web.cse.ohio-state.edu/~lin.3021/) in [SecLab](https://go.osu.edu/seclab). He received his Bachelor of Science degree from [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/) in 2021.
 
 He is a security researcher interested in **mobile security** and **web security**, in particular mobile Super/Mini App security and JavaScript program analysis. He is also a DevOps engineer focused on code development and server operations.
 
