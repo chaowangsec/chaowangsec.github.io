@@ -5,11 +5,11 @@ date: 2023-02-01T23:36:00-05:00
 
 ## Bio
 
-Chao Wang is a Ph.D. candidate from the [Department of Computer Science and Engineering](https://cse.osu.edu) of [The Ohio State University](https://osu.edu). He is advised by [Prof. Zhiqiang Lin](https://web.cse.ohio-state.edu/~lin.3021/) in [SecLab](https://go.osu.edu/seclab). He received his Bachelor of Science degree from [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/) in 2021.
+Chao Wang is a Ph.D. candidate from the [Department of Computer Science and Engineering](https://cse.osu.edu) of [The Ohio State University](https://osu.edu). He is advised by [Prof. Zhiqiang Lin](https://zhiqlin.github.io/) in [SecLab](https://go.osu.edu/seclab). He received his Bachelor of Science degree from [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/) in 2021.
 
 He is a security researcher interested in **mobile security** and **web security**, in particular mobile Super/Mini App security and JavaScript program analysis. He is also a DevOps engineer focused on code development and server operations.
 
-He is a CTF player and composer in **web** challenges. He participates in CTF events with [StrawHat](https://strawhat.team/) and enjoys reversing, exploring and hacking CTF challenges and real-world applications.
+He is a CTF player and composer in **web** challenges. He participates in CTF events with [StrawHat](https://strawhat.team/) and [Nu1L](https://nu1l.com), and enjoys reversing, exploring and hacking CTF challenges and real-world applications.
 
 
 * The best way to reach him is through his email: [wang.15147@osu.edu](mailto:wang.15147@osu.edu)
@@ -20,18 +20,32 @@ He is a CTF player and composer in **web** challenges. He participates in CTF ev
 
 ## Research Interest
 
-* **Mobile Security**: Mobile Super/Mini App Security ([\[ICSE \'23\]](publications/icse23.pdf), [[CCS \'23]](),[\[USENIX-SEC \'23a\]](publications/sec23a.pdf))
-* **Web Security**: JavaScript
+* **Mobile Security**: 
+  - Mobile Super/Mini App Security ([\[ICSE \'23\]](publications/icse23.pdf), [\[CCS \'23\]](publications/ccs23.pdf), [\[USENIX-SEC \'23a\]](publications/sec23a.pdf))
+  - Mobile Security ([\[MobiSys \'26\]](publications/mobisys26.pdf), [\[USENIX-SEC \'23b\]](publications/sec23b.pdf))
+* **Web Security**: JavaScript ([\[ICSE \'23\]](publications/icse23.pdf))
 * **System Security**: TEE (TrustZone)
 
 
 ## Publications
 
-* **[ASIACCS \'24] RootFree Attacks: Exploiting Mobile Platform's Super Apps From Desktop.** [bib] [pdf] [slides]
+* **[MobiSys \'26] Fragile Deliveries: Inconsistencies in Android Parcel and Their Security Consequences.** [bib] [pdf]
+
+	<p style="margin-bottom: 0rem; margin-top: -1rem;">Hongkai Chen, <strong>Chao Wang</strong>, Yuqing Yang, Jennifer Miller, Tiffany Bao, Ruoyu Wang, Adam Doupé, Zhiiqang Lin, Yan Shoshitaishvili</p>
+
+	<p style="margin-bottom: 1rem;"><i>To appear in Proceedings of the 24th ACM International Conference on Mobile Systems, Applications, and Services</i></p>
+
+* **[S&P Magazine \'26] The Rise of Miniapps: A New Frontier with Security Challenges in Mobile Apps.** [bib] [pdf]
+
+	<p style="margin-bottom: 0rem; margin-top: -1rem;">Yuqing Yang, <strong>Chao Wang</strong>, and Zhiqiang Lin</p>
+
+	<p style="margin-bottom: 1rem;"><i>IEEE Security & Privacy (2026)</i></p>
+
+* **[ASIACCS \'24] RootFree Attacks: Exploiting Mobile Platform's Super Apps From Desktop.** [\[bib\]](bibliographies/asiaccs24.bib) [\[pdf\]](publications/asiaccs24.pdf)
 
 	<p style="margin-bottom: 0rem; margin-top: -1rem;"><strong>Chao Wang</strong>, Yue Zhang, and Zhiqiang Lin</p>
 
-	<p style="margin-bottom: 1rem;"><i>To appear in The 19th ACM ASIA Conference on Computer and Communications Security (ACM ASIACCS 2024), 2024</i></p>
+	<p style="margin-bottom: 1rem;"><i>In The 19th ACM ASIA Conference on Computer and Communications Security (ACM ASIACCS 2024), 2024</i></p>
 
 * **[USENIX-SEC \'23a] One Size Does Not Fit All: Uncovering and Exploiting Cross Platform Discrepant APIs in WeChat.** [\[bib\]](bibliographies/sec23a.bib) [\[code\]](https://github.com/OSUSecLab/APIDiff) [\[pdf\]](publications/sec23a.pdf) [\[slides\]](slides/sec23a-slides.pdf)
 
@@ -81,5 +95,3 @@ He is a CTF player and composer in **web** challenges. He participates in CTF ev
 * **Graduate Research Assistant** <span style="float:right;">August. 2021 - Present</span>
 * **Research intern at Shanghai Jiaotong University** <span style="float:right;">April. 2020 - August. 2021</span>
 * **Research intern at Inst. of Info. Eng., Chinese Academy of Sciences** <span style="float:right;">July. 2019 - August. 2019</span>
-
-
