@@ -82,16 +82,19 @@ He is a CTF player and composer in **web** challenges. He participates in CTF ev
 
 	*In Network and System Security: 15th International Conference (NSS), 2021*
 
-
 ## Academic Services
 
-
+* **SaTS \'26**: TPC member
 * **SecureComm \'22**: External reviwer
 
+## Teaching Services
 
+* **Software Security** (CSE5474, The Ohio State University) <span style="float:right;">SP26</span>
 
 ## Research Experiences
 
 * **Graduate Research Assistant** <span style="float:right;">August. 2021 - Present</span>
 * **Research intern at Shanghai Jiaotong University** <span style="float:right;">April. 2020 - August. 2021</span>
 * **Research intern at Inst. of Info. Eng., Chinese Academy of Sciences** <span style="float:right;">July. 2019 - August. 2019</span>
+
+
