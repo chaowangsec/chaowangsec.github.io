@@ -21,19 +21,37 @@ He is a CTF player and composer in **web** challenges. He participates in CTF ev
 ## Research Interest
 
 * **Mobile Security**:
-  - Mobile Super/Mini App Security ([[S&P Magazine \'26]](), [\[ICSE \'23\]](publications/icse23.pdf), [\[CCS \'23\]](publications/ccs23.pdf), [\[USENIX-SEC \'23a\]](publications/sec23a.pdf))
-  - Mobile Security ([\[MobiSys \'26\]](publications/mobisys26.pdf), [\[USENIX-SEC \'23b\]](publications/sec23b.pdf))
+  - Mobile Super/Mini App Security ([[USENIX-SEC \'26a]]() [[S&P Magazine \'26]](), [\[ICSE \'23\]](publications/icse23.pdf), [\[CCS \'23\]](publications/ccs23.pdf), [\[USENIX-SEC \'23a\]](publications/sec23a.pdf))
+  - Mobile Security ([[USENIX-SEC \'26b]](), [\[MobiSys \'26\]](publications/mobisys26.pdf), [\[USENIX-SEC \'23b\]](publications/sec23b.pdf))
 * **Web Security**: JavaScript ([\[ICSE \'23\]](publications/icse23.pdf))
-* **System Security**: TEE (TrustZone)
+* **System Security**: TEE ([[RAID \'26]]())
 
 
 ## Publications
+
+* **[USENIX-SEC \'26a] Raising the Flag: Detecting Missing Permission Controls in Mini-Program APIs** [bib] [pdf]
+
+	<p style="margin-bottom: 0rem; margin-top: -1rem;">Zhiao Wei*, <strong>Chao Wang</strong>*, Haseeb-Ur-Rehman Faheem, Luyi Xing, Yousra Aafer, Zhiqiang Lin (* Co-first author)</p>
+
+	<p style="margin-bottom: 1rem;"><i>To appear in 35th USENIX Security Symposium (USENIX Security 26), 2026</i></p>
+
+* **[USENIX-SEC \'26b] SoK: History Doesn't Repeat Itself, but Android Design-Level Vulnerabilities Rhyme in OpenHarmony** [bib] [pdf]
+
+	<p style="margin-bottom: 0rem; margin-top: -1rem;">Hongkai Chen, Yuqing Yang, <strong>Chao Wang</strong>, Arpit Nandi, Moritz Schloegel, Tiffany Bao, Ruoyu Wang, Adam Doupé, Zhiqiang Lin, Yan Shoshitaishvili</p>
+
+	<p style="margin-bottom: 1rem;"><i>To appear in 35th USENIX Security Symposium (USENIX Security 26), 2026</i></p>
+
+* **[RAID \'26] Too Private to Tell: Practical Token Theft Attacks on Apple Intelligence** [bib] [pdf]
+
+	<p style="margin-bottom: 0rem; margin-top: -1rem;">Haoling Zhou, Shixuan Zhao, <strong>Chao Wang</strong>, Zhiqiang Lin</p>
+
+	<p style="margin-bottom: 1rem;"><i>To appear in Proceedings of the 29th International Symposium on Research in Attacks, Intrusions and Defenses, 2026</i></p>
 
 * **[MobiSys \'26] Fragile Deliveries: Inconsistencies in Android Parcel and Their Security Consequences.** [bib] [pdf]
 
 	<p style="margin-bottom: 0rem; margin-top: -1rem;">Hongkai Chen, <strong>Chao Wang</strong>, Yuqing Yang, Jennifer Miller, Tiffany Bao, Ruoyu Wang, Adam Doupé, Zhiiqang Lin, Yan Shoshitaishvili</p>
 
-	<p style="margin-bottom: 1rem;"><i>To appear in Proceedings of the 24th ACM International Conference on Mobile Systems, Applications, and Services</i></p>
+	<p style="margin-bottom: 1rem;"><i>In Proceedings of the 24th ACM International Conference on Mobile Systems, Applications, and Services</i></p>
 
 * **[S&P Magazine \'26] The Rise of Miniapps: A New Frontier with Security Challenges in Mobile Apps.** [bib] [pdf]
 
